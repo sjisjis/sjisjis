@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sjisjis</title>
-    <link>https://sjisjis.github.io/sjisjis/</link>
+    <link>https://dev.sjisjis.com/</link>
     <description>Recent content on sjisjis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 29 Feb 2020 16:13:17 +0900</lastBuildDate>
     
-	<atom:link href="https://sjisjis.github.io/sjisjis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dev.sjisjis.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://dev.sjisjis.com/about/</link>
+      <pubDate>Sat, 29 Feb 2020 16:13:17 +0900</pubDate>
+      
+      <guid>https://dev.sjisjis.com/about/</guid>
+      <description>coming soon&amp;hellip; </description>
+    </item>
     
   </channel>
 </rss>

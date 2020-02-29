@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sjisjis.github.io/sjisjis/categories/</loc>
+    <loc>https://dev.sjisjis.com/about/</loc>
+    <lastmod>2020-02-29T16:13:17+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sjisjis.github.io/sjisjis/</loc>
+    <loc>https://dev.sjisjis.com/</loc>
+    <lastmod>2020-02-29T16:13:17+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sjisjis.github.io/sjisjis/tags/</loc>
+    <loc>https://dev.sjisjis.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dev.sjisjis.com/tags/</loc>
   </url>
   
 </urlset>
