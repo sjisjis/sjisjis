@@ -1,4 +1,4 @@
-baseurl = "https://sjisjis.github.io/sjisjis/"
+baseurl = "https://dev.sjisjis.com"
 title = "sjisjis"
 theme = "hugo-coder"
 languagecode = "en"
